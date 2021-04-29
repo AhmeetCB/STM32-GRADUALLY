@@ -1,1 +1,1 @@
-# STM32 Kademeli olarak yanıp sönen lamba
+# STM32 Kademeli olarak yanıp sönen led
